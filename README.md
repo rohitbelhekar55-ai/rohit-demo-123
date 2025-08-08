@@ -1,4 +1,4 @@
 # rohit-demo-123
-author- rohit
-this is my first github <br>
+author- rohit<br>
+this is my first github
 collage name-GHRISTU
