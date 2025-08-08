@@ -1,3 +1,4 @@
 # rohit-demo-123
+author- rohit
 this is my first github <br>
-collage name-gh raisoni international skill tech university  pune
+collage name-GHRISTU
